@@ -1,1 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+spring-security-auth-server/.idea
+spring-security-auth-server/target
+spring-security-client/.idea
+spring-security-client/target
